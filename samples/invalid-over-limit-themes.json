@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "presentation": {
+    "title": "Sprint 1 Overview",
+    "sprint": "Sprint 1",
+    "product": "atlas",
+    "themes": [
+      { "icon": "advisory", "title": "Alpha", "bullets": [] },
+      { "icon": "release", "title": "Beta", "bullets": [] },
+      { "icon": "roadmap", "title": "Gamma", "bullets": [] },
+      { "icon": "project", "title": "Delta", "bullets": [] }
+    ],
+    "metrics": [],
+    "projects": [],
+    "releases": [],
+    "deprecations": [],
+    "advisories": [],
+    "roadmap": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "presentation": {
+    "title": "Sprint 10 Health",
+    "sprint": "Sprint 10",
+    "product": "nimbus",
+    "themes": [],
+    "metrics": [
+      {
+        "metric": "delivery-confidence",
+        "value": 88,
+        "trend": "flat",
+        "status": "healthy"
+      },
+      {
+        "metric": "throughput",
+        "value": 34,
+        "trend": "up",
+        "status": "healthy",
+        "bullets": ["Velocity stabilising after team expansion"]
+      },
+      {
+        "metric": "quality",
+        "value": 91,
+        "trend": "up",
+        "status": "healthy"
+      },
+      {
+        "metric": "reliability",
+        "value": 99.7,
+        "trend": "flat",
+        "status": "healthy"
+      }
+    ],
+    "projects": [],
+    "releases": [],
+    "deprecations": [],
+    "advisories": [],
+    "roadmap": []
+  }
+}

@@ -1,0 +1,7 @@
+# Documents kept out of formatting scope.
+VISION.md
+
+# Generated files.
+dist/
+coverage/
+package-lock.json

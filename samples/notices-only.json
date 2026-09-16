@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "presentation": {
+    "title": "Sprint 5 Notices",
+    "sprint": "Sprint 5",
+    "product": "orbit",
+    "themes": [],
+    "metrics": [],
+    "projects": [],
+    "releases": [
+      {
+        "product": "orbit",
+        "title": "Reporting API v2",
+        "status": "Generally available",
+        "state": "healthy",
+        "bullets": [
+          "REST and GraphQL interfaces available",
+          "Migration guide published in the developer portal"
+        ]
+      },
+      {
+        "title": "Scheduled Maintenance Window",
+        "status": "Begins Friday 22:00 UTC",
+        "state": "upcoming"
+      }
+    ],
+    "deprecations": [
+      {
+        "product": "orbit",
+        "title": "Reporting API v1",
+        "retirementDate": "December 1",
+        "state": "attention",
+        "bullets": [
+          "Migrate integrations to v2 before the retirement date",
+          "v1 endpoints will return 410 after retirement"
+        ]
+      }
+    ],
+    "advisories": [
+      {
+        "product": "orbit",
+        "title": "Token Scope Change",
+        "action": "Review required before November 1",
+        "bullets": [
+          "Read-only tokens now require explicit scope declaration",
+          "Existing tokens remain valid until renewal"
+        ]
+      }
+    ],
+    "roadmap": []
+  }
+}

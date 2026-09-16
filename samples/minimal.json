@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "presentation": {
+    "title": "Sprint 1 Overview",
+    "sprint": "Sprint 1",
+    "product": "atlas",
+    "themes": [],
+    "metrics": [],
+    "projects": [],
+    "releases": [],
+    "deprecations": [],
+    "advisories": [],
+    "roadmap": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "presentation": {
+    "title": "Sprint 1 Overview",
+    "sprint": "Sprint 1",
+    "product": "atlas",
+    "themes": [],
+    "metrics": [],
+    "projects": [
+      {
+        "id": "overloaded-project",
+        "title": "Overloaded Initiative",
+        "icon": "project",
+        "status": "on-track",
+        "phases": [
+          {
+            "title": "Phase One",
+            "icon": "phase",
+            "epics": [
+              { "title": "Epic One" },
+              { "title": "Epic Two" },
+              { "title": "Epic Three" },
+              { "title": "Epic Four" },
+              { "title": "Epic Five" },
+              { "title": "Epic Six" }
+            ]
+          }
+        ]
+      }
+    ],
+    "releases": [],
+    "deprecations": [],
+    "advisories": [],
+    "roadmap": []
+  }
+}

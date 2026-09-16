@@ -1,0 +1,33 @@
+# ── Node.js ─────────────────────────────────────────────────────────────
+node_modules/
+dist/
+*.tsbuildinfo
+coverage/
+*.lcov
+
+# ── Generated presentations ─────────────────────────────────────────────
+*.pptx
+!docs/full-sprint.pptx
+
+# ── Environment ─────────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Editors ─────────────────────────────────────────────────────────────
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── AI agent workspaces ─────────────────────────────────────────────────
+.claude/
+.codex/

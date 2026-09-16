@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "presentation": {
+    "title": "Sprint 7 Project Status",
+    "sprint": "Sprint 7",
+    "product": "beacon",
+    "themes": [],
+    "metrics": [],
+    "projects": [
+      {
+        "id": "platform-upgrade",
+        "title": "Platform Infrastructure Upgrade",
+        "icon": "project",
+        "status": "on-track",
+        "phases": [
+          {
+            "title": "Assessment",
+            "icon": "phase",
+            "epics": [
+              { "title": "Audit existing services" },
+              { "title": "Document migration blockers" }
+            ]
+          },
+          {
+            "title": "Migration",
+            "icon": "milestone",
+            "epics": [
+              { "title": "Migrate authentication service" },
+              { "title": "Migrate storage layer" },
+              { "title": "Update API gateway" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mobile-refresh",
+        "title": "Mobile App Refresh",
+        "icon": "release",
+        "status": "at-risk",
+        "phases": [
+          {
+            "title": "Design",
+            "icon": "phase",
+            "epics": [
+              { "title": "Complete UX review" },
+              { "title": "Finalise design system tokens" }
+            ]
+          }
+        ]
+      }
+    ],
+    "releases": [],
+    "deprecations": [],
+    "advisories": [],
+    "roadmap": []
+  }
+}

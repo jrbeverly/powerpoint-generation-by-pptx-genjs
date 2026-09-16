@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "presentation": {
+    "title": "Sprint 3 Roadmap",
+    "sprint": "Sprint 3",
+    "product": "atlas",
+    "themes": [],
+    "metrics": [],
+    "projects": [],
+    "releases": [],
+    "deprecations": [],
+    "advisories": [],
+    "roadmap": [
+      { "horizon": "now", "title": "Stabilise core authentication flow" },
+      { "horizon": "now", "title": "Complete onboarding documentation" },
+      { "horizon": "next", "title": "Expand to EU region" },
+      { "horizon": "next", "title": "Launch self-service provisioning" },
+      { "horizon": "later", "title": "Introduce federated identity support" },
+      { "horizon": "later", "title": "Add audit log export" }
+    ]
+  }
+}
